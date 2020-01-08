@@ -1,10 +1,9 @@
 # Site settings
 title: HomoliveTech
 SEOTitle: Sajo的博客 | BY HomoliveTech
-header-img: img/post-bg-desk.jpg
+header-img: https://g43muw.ch.files.1drv.com/y4musPWYu_iXThmlV9NoreiYSmHT8Mqxa2WTBBAAzqfMk_Zsu5Ucq1hVIcWPqdoIgQWj88IAlcktXQmVYXFI-wXExJHezqgI8GbsANtYpDz6_eKmPpgpTMTtVCjRCqur4CcXGkBB7mbqQkL12vW8FVjjiCFERF6WHwgppdOfED7q9mLjzGIaG4sb1-jlv42bFCzlSiSEZtjIhxT3EbIJofRAQ
 email: luogewansui@gmail.com
-description: "最重要的不是顺风顺水时候的自我，而是失去希望时的自我，是不知所措时的自己。人生不如意十之八九，人注定要和绝望相伴度过大半生。
-                                         ————村西透 "
+description: "我fo了"
 keyword: "BY, HomoliveTech, Sajo的博客, Sajo, Homo, flutter, Apple, iPhone"
 url: "http://sajotim.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
