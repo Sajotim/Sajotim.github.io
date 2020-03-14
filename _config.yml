@@ -1,7 +1,7 @@
 # Site settings
 title: HomoliveTech
 SEOTitle: Sajo的博客 | BY HomoliveTech
-header-img: https://g43muw.ch.files.1drv.com/y4musPWYu_iXThmlV9NoreiYSmHT8Mqxa2WTBBAAzqfMk_Zsu5Ucq1hVIcWPqdoIgQWj88IAlcktXQmVYXFI-wXExJHezqgI8GbsANtYpDz6_eKmPpgpTMTtVCjRCqur4CcXGkBB7mbqQkL12vW8FVjjiCFERF6WHwgppdOfED7q9mLjzGIaG4sb1-jlv42bFCzlSiSEZtjIhxT3EbIJofRAQ
+header-img: img/title.png
 email: luogewansui@gmail.com
 description: "我fo了"
 keyword: "BY, HomoliveTech, Sajo的博客, Sajo, Homo, flutter, Apple, iPhone"
@@ -11,8 +11,8 @@ github_repo: "https://github.com/sajotim/sajotim.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "摸鱼的five一个"
+sidebar-avatar: /img/avatar-by.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -108,7 +108,7 @@ friends: [
         title: "龙桑🐲",
         href: "https://juejin.im/user/5cb0cd1d6fb9a0688a6804c2"
     },{
-        title: "太君",
+        title: "JP太君",
         href: "404Not found"
     },{
         title: "Homolive",
