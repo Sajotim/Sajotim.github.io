@@ -113,5 +113,8 @@ friends: [
     },{
         title: "Homolive",
         href: "http://www.homolive.tv/homepage/"
+    },{
+        title: "CCG",
+        href: "https://ccg.im/"
     }
 ]
