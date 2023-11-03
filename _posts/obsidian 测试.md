@@ -1,8 +1,8 @@
 ---
 layout: post
-title: {{title}}
+title: obsidian 测试
 subtitle: 小测试
-date: {{date}}
+date: 2023-11-03
 author: Sajo
 header-image: 
 cate-log: "true"
