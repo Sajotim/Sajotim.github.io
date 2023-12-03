@@ -3,8 +3,8 @@ title: HomoLab
 SEOTitle: Sajo的博客 | HomoLab Inc.
 header-img: img/title.png
 email: luogewansui@gmail.com
-description: "一般通过SRE"
-keyword: "BY, HomoLab, Sajo的博客, Sajo, Homo, Apple, iPhone"
+description: "一般通过SA"
+keyword: "HomoLab, Sajo的博客, Sajo, Homo, Apple, iPhone"
 url: "https://blog.sajo.cc"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/sajotim/sajotim.github.io.git" # you code repository
@@ -99,22 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "显卡👴",
+        title: "显卡",
         href: "https://xianka.luobotou.org/"
     },{
-        title: "Ykz",
-        href: "https://www.yk2.work/"
+        title: "Yk2eR0",
+        href: "https://www.yk2er0.fun/"
     },{
-        title: "龙桑🐲",
+        title: "龙🐲",
         href: "https://juejin.im/user/5cb0cd1d6fb9a0688a6804c2"
     },{
-        title: "JP太君",
-        href: "404Not found"
-    },{
-        title: "Homolive",
-        href: "http://www.homolive.tv/homepage/"
-    },{
-        title: "CCG",
-        href: "https://ccg.im/"
+        title: "阵雨",
+        href: "https://zhengyua.cn"
     }
 ]
