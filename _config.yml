@@ -5,7 +5,7 @@ header-img: img/title.png
 email: luogewansui@gmail.com
 description: "一般通过SA"
 keyword: "HomoLab, Sajo的博客, Sajo, Homo, Apple, iPhone"
-url: "https://blog.sajo.cc"          # your host, for absolute URL
+url: "https://sajotim.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/sajotim/sajotim.github.io.git" # you code repository
 
